@@ -2,7 +2,7 @@
 #
 # package name will automatically be modified by the build process
 # to match that of the application.
-package: goTest
+package: May-TEST-makefile
 
 
 import:
